@@ -1,2 +1,2 @@
-# NoteOnWebsites
-write/read a note on websites
+# MemoOnWebsites
+write/read a memo on websites
