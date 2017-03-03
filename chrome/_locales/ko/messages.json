@@ -1,0 +1,22 @@
+{
+  "extShortDesc": {
+    "message": "웹사이트마다 나만의 메모를 남겨보세요.",
+    "description": "this will be in the chrome web store: must be 132 characters or less"
+  },
+  "browserActionTitle": {
+    "message": "메모 열기",
+    "description": "browserAction's title"
+  },
+  "notSupportedUrl": {
+    "message": "메모 기능이 지원하지 않는 URL입니다.",
+    "description": "this will be in the popup: not supported url"
+  },
+  "btnSave": {
+    "message": "저장",
+    "description": "this will be in the popup: save button"
+  },
+  "btnClear": {
+    "message": "지우기",
+    "description": "this will be in the popup: clear button"
+  }
+}

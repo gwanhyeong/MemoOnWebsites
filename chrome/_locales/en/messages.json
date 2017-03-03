@@ -1,0 +1,22 @@
+{
+  "extShortDesc": {
+    "message": "write/read a memo on websites",
+    "description": "this will be in the chrome web store: must be 132 characters or less"
+  },
+  "browserActionTitle": {
+    "message": "Open memo",
+    "description": "browserAction's title"
+  },
+  "notSupportedUrl": {
+    "message": "Not Supported URL",
+    "description": "this will be in the popup: not supported url"
+  },
+  "btnSave": {
+    "message": "SAVE",
+    "description": "this will be in the popup: save button"
+  },
+  "btnClear": {
+    "message": "CLEAR",
+    "description": "this will be in the popup: clear button"
+  }
+}
