@@ -1,6 +1,6 @@
 {
   "extShortDesc": {
-    "message": "웹사이트마다 나만의 메모를 남겨보세요.",
+    "message": "웹사이트에 나만의 메모를 남겨보세요.",
     "description": "this will be in the chrome web store: must be 132 characters or less"
   },
   "browserActionTitle": {

@@ -1,6 +1,6 @@
 {
   "extShortDesc": {
-    "message": "write/read a memo on websites",
+    "message": "leave a memo on each website",
     "description": "this will be in the chrome web store: must be 132 characters or less"
   },
   "browserActionTitle": {
